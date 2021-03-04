@@ -8,6 +8,7 @@ package cuentas;
 /**
  *
  * @author Cristian
+ * Visto
  */
 public class CCuenta {
     private String nombre;
